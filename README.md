@@ -2,6 +2,8 @@
 
 This is a simple Node.js project containerized using Docker.  
 It contains a small Express server that returns JSON output and writes files into the `output/` folder.
+<img width="1902" height="915" alt="image" src="https://github.com/user-attachments/assets/abe75d53-7765-4956-88b7-70af7c580998" />
+
 
 https://github.com/Sasikumarjada/node-js-docker-Project/blob/main/Screenshot%202025-09-27%20135832.png?raw=true
 
